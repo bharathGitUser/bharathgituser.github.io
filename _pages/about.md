@@ -1,12 +1,42 @@
 ---
 permalink: /
-title: "academicpages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "About me"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
+
+Hello! I am a researcher working on aspects of distributed systems applied to different use-cases at ATT such as 5G/RAN controllers, SDN-controllers, Placement services and Edge cloud services. A new area of interest is to enable 5G-based services for various industry verticals.
+
+In a prohibitively long, but enjoyable Ph.D. at UT Austin under Vijay Garg, I focused on coding-theoretic fault-tolerance in distributed systems. Following this, I worked as postdoc in the EE department at Princeton University with Mung Chiang.
+
+# Current Work
+My current areas of active research are defined by two roles I play within ATT as part of  open-source Linux Foundation Projects. 
+
+ATT-Nokia Co-create/ORAN RIC: Product Owner for the RAN Intelligent Controller (RIC) under the ATT-Nokia co-create program. The RIC is a near-real-time software controller that controls various aspect of the RAN control plane through AI/ML techniques to enable better cellular network optimization and bring forth new services for verticals such as AR/VR and Drone applications (see demo at the end of the page!).   
+
+ONAP MUSIC: Project Technical Lead for geo-distributed state management aspects of ONAP, an open-source project for software-defined network automation. In this role, along with my team, we built the MUSIC tool for multi-site state management, that is currently managing the state for different ATT components in production. Work broadly associated with this has appeared in PODC, ICDCS, HotEdge, HotCloud and IEEE Cloud. 
+
+# New Publications! (i.e. not yet on DBLP)
+
+
+[VLDB 2020] Enrique Saurez, Bharath Balasubramanian, Richard Schlichting, Brendan Tschaen, Shankaranarayanan Puzhavakath Narayanan, Zhe Huang and Umakishore Ramachandran. A Drop-in Middleware for Serializable DB Clustering across Geo-distributed Sites. 
+
+
+[SECON 2020] [Nominated for Best Paper!]  Kittipat Apicharttrisorn, Bharath Balasubramanian, Jiasi Chen, Rajarajan Sivaraj, Yi-Zhen Tsai , Rittwik Jana , Srikanth Krishnamurthy, Tuyen Tran and Yu Zhou. Characterization of Multi-User Augmented Reality over Cellular Networks in SECON 2020. 
+
+
+[ICDCS 2020] Bharath Balasubramanian, Pamela Zave, Richard Schlichting, Mohammad Salehe, Shankaranarayanan Puzhavakath Narayanan, Seyed Hossein Mortazavi, Eyal De Lara, Matti Hiltunen , Kaustubh Joshi and Gueyoung Jung. MUSIC: Multi-Site Critical Sections over Geo-Distributed State. 
+
+
+[ICFEC 2020] Seyed Hossein Mortazavi, Mohammad Salehe, Bharath Balasubramanian, Eyal de Lara, Shankaranarayanan PuzhavakathNarayanan. SessionStore: A Session-Aware Datastore for the Edge. 
+
+# Service
+Program Committees:  ICDCS, SEC, IEEE Cloud, SRDS. 
+Invited Reviews: Journal of Operations Research, TPDS, JPDC, ICDCS, OPODIS, DISC, SSS
+
 
 This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
 
