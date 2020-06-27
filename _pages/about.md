@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hello! I am a researcher working on aspects of distributed systems applied to different use-cases at ATT such as 5G/RAN controllers, SDN-controllers, Placement services and Edge cloud services. A new area of interest is to enable 5G-based services for various industry verticals.
+Hello! I am a <span style="color:blue">some *blue* text</span> researcher working on aspects of distributed systems applied to different use-cases at ATT such as 5G/RAN controllers, SDN-controllers, Placement services and Edge cloud services. A new area of interest is to enable 5G-based services for various industry verticals.
 
 In a prohibitively long, but enjoyable Ph.D. at UT Austin under Vijay Garg, I focused on coding-theoretic fault-tolerance in distributed systems. Following this, I worked as postdoc in the EE department at Princeton University with Mung Chiang.
 
