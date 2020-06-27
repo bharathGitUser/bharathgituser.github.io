@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Bharath Balasubramanian"
+title                    : "Home Page"
 title_separator          : "-"
 name                     : &name "Bharath Balasubramanian"
 description              : &description "Principal Scientist, ATT Labs Research"
