@@ -12,6 +12,7 @@ Hello! I am a <span style="color:blue">some *blue* text</span> researcher workin
 
 In a prohibitively long, but enjoyable Ph.D. at UT Austin under Vijay Garg, I focused on coding-theoretic fault-tolerance in distributed systems. Following this, I worked as postdoc in the EE department at Princeton University with Mung Chiang.
 
+<a name="currentwork"></a>
 # Current Work
 My current areas of active research are defined by two roles I play within ATT as part of  open-source Linux Foundation Projects. 
 
