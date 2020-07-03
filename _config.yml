@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Bharath Balasubramanian"
+title                    : "Home"
 title_separator          : "-"
 name                     : &name "Bharath Balasubramanian"
 description              : &description "Principal Scientist, ATT Labs Research"
@@ -80,9 +80,9 @@ analytics:
 
 # Site Author
 author:
-  name             : "Principal Scientist <br> ATT Labs Research <br> bharathb@research.att.com"
+  name             : "Bharath Balasubramanian"
   avatar           : "profile.png"
-  #bio              : "Principal Scientist <br> ATT Labs Research <br> bharathb@research.att.com"
+  bio              : "Principal Scientist <br> ATT Labs Research <br> bharathb@research.att.com"
   #location         : "Location"
   #employer         :
   #pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
