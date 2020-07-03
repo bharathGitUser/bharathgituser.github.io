@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Home Page"
 title_separator          : "-"
 name                     : &name "Bharath Balasubramanian"
-description              : &description "Principal Scientist, ATT Labs Research, bharathb@research.att.com"
+description              : &description "Principal Scientist, ATT Labs Research"
 url                      : https://bharathgituser.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "bharathgituser.github.io"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Bharath Balasubramanian"
   avatar           : "profile.png"
-  bio              : "Principal Scientist, ATT Labs Research"
+  bio              : "Principal Scientist, ATT Labs Research, bharathb@research.att.com"
   #location         : "Location"
   #employer         :
   #pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
