@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Bharath Balasubramanian"
   avatar           : "profile.png"
-  bio              : "Principal Scientist <br> ATT Labs Research <br> harathb@research.att.com"
+  bio              : "Principal Scientist <br> ATT Labs Research <br> bharathb@research.att.com"
   #location         : "Location"
   #employer         :
   #pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   #googlescholar    : "http://yourfullgooglescholarurl.com"
-  email             : "bharathb@research.att.com"
+  #email             : "bharathb@research.att.com"
   #researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   #uri              :
   #bitbucket        :
