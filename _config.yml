@@ -80,9 +80,9 @@ analytics:
 
 # Site Author
 author:
-  #name             : "Bharath Balasubramanian"
+  name             : "Principal Scientist <br> ATT Labs Research <br> bharathb@research.att.com"
   avatar           : "profile.png"
-  bio              : "Principal Scientist <br> ATT Labs Research <br> bharathb@research.att.com"
+  #bio              : "Principal Scientist <br> ATT Labs Research <br> bharathb@research.att.com"
   #location         : "Location"
   #employer         :
   #pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
