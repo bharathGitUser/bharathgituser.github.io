@@ -17,7 +17,7 @@ In a prohibitively long, but enjoyable <span style="color:blue">Ph.D. at UT Aust
 
 <a name="currentwork"></a>
 # News
-* Nokia issues press release on the RAN controller that we worked on as part of a co-create program. I am currently the product owner for this controller from the ATT side. 
+* Nokia issues press release on the RAN controller that we worked on as part of a co-create program. 
 * Work on multi-site state management (MUSIC) released as part of the Open-network Automation Platform (ONAP) and accepted at VLDB and ICDCS 2020. 
 * Measurement study of augmented reality on celullar networks selected as a best paper finalist at IEEE SECON 2020. 
 
