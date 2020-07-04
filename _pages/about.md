@@ -9,19 +9,19 @@ redirect_from:
 ---
 
 Thanks for stopping by :-) I am an applied researcher working on topics that will hopefully bring value to both ATT and the larger research community. My interests span the following areas:
-* Software-defined network control (both core and RAN)
+* Software-defined network control of both the core and RAN
 * Application verticals like Video, AR, drones etc, that can leverage fine-grained control of the LTE/5G RAN
 * Large-scale distributed systems and storage 
 
 In a prohibitively long, but enjoyable <span style="color:blue">Ph.D. at UT Austin</span> under Vijay Garg, I focused on coding-theoretic fault-tolerance in distributed systems. Following this, I worked as <span style="color:blue">Postdoc at Princeton University</span> in with Mung Chiang.
 
 <a name="currentwork"></a>
-# Current Work
-My current areas of active research are defined by two roles I play within ATT as part of  open-source Linux Foundation Projects. 
+# News
+* Nokia issues press release on the RAN controller that we worked on as part of a co-create program. I am currently the product owner for this controller from the ATT side. 
+* Work on multi-site state management (MUSIC) released as part of the Open-network Automation Platform (ONAP) and accepted at VLDB and ICDCS 2020. 
+* Measurement study of augmented reality on celullar networks selected as a best paper finalist at IEEE SECON 2020. 
 
-ATT-Nokia Co-create/ORAN RIC: Product Owner for the RAN Intelligent Controller (RIC) under the ATT-Nokia co-create program. The RIC is a near-real-time software controller that controls various aspect of the RAN control plane through AI/ML techniques to enable better cellular network optimization and bring forth new services for verticals such as AR/VR and Drone applications (see demo at the end of the page!).   
 
-ONAP MUSIC: Project Technical Lead for geo-distributed state management aspects of ONAP, an open-source project for software-defined network automation. In this role, along with my team, we built the MUSIC tool for multi-site state management, that is currently managing the state for different ATT components in production. Work broadly associated with this has appeared in PODC, ICDCS, HotEdge, HotCloud and IEEE Cloud. 
 
 <a name="publications"></a>
 # New Publications! (i.e. not yet on DBLP)
