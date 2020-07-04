@@ -1,7 +1,7 @@
 # main links links
 main:
-  - title: "News!"
-    url: /#current-work
+  - title: "New!"
+    url: /#new
 
   - title: "Publications"
     url: /#publications
