@@ -13,11 +13,11 @@ Thanks for stopping by :-) I am an applied researcher working on topics that wil
 * Application verticals like Video, AR, drones etc, that can leverage fine-grained control of the LTE/5G RAN
 * Large-scale distributed systems and storage 
 
-In a prohibitively long, but enjoyable <span style="color:blue">Ph.D. at UT Austin</span> under Vijay Garg, I focused on coding-theoretic fault-tolerance in distributed systems. Following this, I worked as <span style="color:blue">Postdoc at Princeton University</span> in with Mung Chiang.
+In a prohibitively long <p>&#128564;</p>, but enjoyable <span style="color:blue">Ph.D. at UT Austin</span> under Vijay Garg, I focused on coding-theoretic fault-tolerance in distributed systems. Following this, I worked as <span style="color:blue">Postdoc at Princeton University</span> in with Mung Chiang.
 
 <a name="currentwork"></a>
 # New!
-* Nokia issues press release on our live trial of the 5G RAN controller. This controller was built together by ATT and Nokia (I am the product owner from the ATT sude) and has been open-sources through ORAN.
+* Nokia issues press release on our live trial of the 5G RAN controller. This controller was built together by ATT and Nokia (I am the product owner from the ATT side) and has been open-sourced through ORAN.
 * Work on multi-site state management (MUSIC) released as part of the Open-network Automation Platform (ONAP) and accepted at VLDB and ICDCS 2020. 
 * Measurement study of augmented reality on celullar networks selected as a best paper finalist at IEEE SECON 2020. 
 
