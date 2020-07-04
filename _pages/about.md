@@ -17,7 +17,7 @@ In a prohibitively long, but enjoyable <span style="color:blue">Ph.D. at UT Aust
 
 <a name="currentwork"></a>
 # New!
-* Nokia issues press release on our live trial of the 5G RAN controller that we built together as part of a co-create program and has been open-source through ORAN.
+* Nokia issues press release on our live trial of the 5G RAN controller. This controller was built together by ATT and Nokia (I am the product owner from the ATT sude) and has been open-sources through ORAN.
 * Work on multi-site state management (MUSIC) released as part of the Open-network Automation Platform (ONAP) and accepted at VLDB and ICDCS 2020. 
 * Measurement study of augmented reality on celullar networks selected as a best paper finalist at IEEE SECON 2020. 
 
