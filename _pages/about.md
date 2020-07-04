@@ -8,14 +8,14 @@ redirect_from:
   - /about.html
 ---
 
-Thanks for stopping by :-) I am an applied researcher working on topics that will hopefully bring value to both ATT and the larger research community, preferably in that order. My interests span the following areas:
+Thanks for stopping by :-) I am an applied researcher working on topics that will hopefully bring value to both ATT and the larger research community, preferably in that order&#128556;. My interests span the following areas:
 * Software-defined network control of both the core and RAN
 * Application verticals like Video, AR, drones etc, that can leverage fine-grained control of the LTE/5G RAN
 * Large-scale distributed systems and storage 
 
 In a prohibitively long &#128564;, but enjoyable <span style="color:blue">Ph.D. at UT Austin</span> under Vijay Garg, I focused on coding-theoretic fault-tolerance in distributed systems. Following this, I worked as <span style="color:blue">Postdoc at Princeton University</span> in with Mung Chiang.
 
-<a name="currentwork"></a>
+<a name="new"></a>
 # New!
 * Nokia issues <a href="https://www.nokia.com/about-us/news/releases/2020/06/18/nokia-and-att-run-successful-trial-of-the-ran-intelligent-controller-over-commercial-5g/">press release</a> on our live trial of the 5G RAN controller. I was part of the team that built this controller along with Nokia and we have open-sourced it through ORAN.
 * Work on multi-site state management (MUSIC) <a href="https://www.onap.org/announcement/2020/06/18/onaps-6th-release-frankfurt-available-now-most-comprehensive-secure-and-collaborative-software-to-accelerate-5g-deployments">released</a> as part of the Open-network Automation Platform (ONAP) and accepted at <a href="https://bharathgituser.github.io/files/metric_vldb_2020.pdf">VLDB</a> and <a href="https://bharathgituser.github.io/files/music_icdcs_2020.pdf">ICDCS</a> 2020. 
