@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Thanks for stopping by :-) I am an applied researcher working on topics that will hopefully bring value to both ATT and the larger research community. My interests span the following areas:
+Thanks for stopping by :-) I am an applied researcher working on topics that will hopefully bring value to both ATT and the larger research community, preferably in that order. My interests span the following areas:
 * Software-defined network control of both the core and RAN
 * Application verticals like Video, AR, drones etc, that can leverage fine-grained control of the LTE/5G RAN
 * Large-scale distributed systems and storage 
@@ -16,8 +16,8 @@ Thanks for stopping by :-) I am an applied researcher working on topics that wil
 In a prohibitively long, but enjoyable <span style="color:blue">Ph.D. at UT Austin</span> under Vijay Garg, I focused on coding-theoretic fault-tolerance in distributed systems. Following this, I worked as <span style="color:blue">Postdoc at Princeton University</span> in with Mung Chiang.
 
 <a name="currentwork"></a>
-# News
-* Nokia issues press release on the RAN controller that we worked on as part of a co-create program. 
+# New!
+* Nokia issues press release on our live trial of the 5G RAN controller that we built together as part of a co-create program and has been open-source through ORAN.
 * Work on multi-site state management (MUSIC) released as part of the Open-network Automation Platform (ONAP) and accepted at VLDB and ICDCS 2020. 
 * Measurement study of augmented reality on celullar networks selected as a best paper finalist at IEEE SECON 2020. 
 
@@ -27,16 +27,20 @@ In a prohibitively long, but enjoyable <span style="color:blue">Ph.D. at UT Aust
 # New Publications! (i.e. not yet on DBLP)
 
 
-[VLDB 2020] Enrique Saurez, Bharath Balasubramanian, Richard Schlichting, Brendan Tschaen, Shankaranarayanan Puzhavakath Narayanan, Zhe Huang and Umakishore Ramachandran. A Drop-in Middleware for Serializable DB Clustering across Geo-distributed Sites. 
+[VLDB 2020] 
+Enrique Saurez, Bharath Balasubramanian, Richard Schlichting, Brendan Tschaen, Shankaranarayanan Puzhavakath Narayanan, Zhe Huang and Umakishore Ramachandran. A Drop-in Middleware for Serializable DB Clustering across Geo-distributed Sites. 
 
 
-[SECON 2020] [Nominated for Best Paper!]  Kittipat Apicharttrisorn, Bharath Balasubramanian, Jiasi Chen, Rajarajan Sivaraj, Yi-Zhen Tsai , Rittwik Jana , Srikanth Krishnamurthy, Tuyen Tran and Yu Zhou. Characterization of Multi-User Augmented Reality over Cellular Networks in SECON 2020. 
+[SECON 2020] [Nominated for Best Paper!]  
+Kittipat Apicharttrisorn, Bharath Balasubramanian, Jiasi Chen, Rajarajan Sivaraj, Yi-Zhen Tsai , Rittwik Jana , Srikanth Krishnamurthy, Tuyen Tran and Yu Zhou. Characterization of Multi-User Augmented Reality over Cellular Networks in SECON 2020. 
 
 
-[ICDCS 2020] Bharath Balasubramanian, Pamela Zave, Richard Schlichting, Mohammad Salehe, Shankaranarayanan Puzhavakath Narayanan, Seyed Hossein Mortazavi, Eyal De Lara, Matti Hiltunen , Kaustubh Joshi and Gueyoung Jung. MUSIC: Multi-Site Critical Sections over Geo-Distributed State. 
+[ICDCS 2020] 
+Bharath Balasubramanian, Pamela Zave, Richard Schlichting, Mohammad Salehe, Shankaranarayanan Puzhavakath Narayanan, Seyed Hossein Mortazavi, Eyal De Lara, Matti Hiltunen , Kaustubh Joshi and Gueyoung Jung. MUSIC: Multi-Site Critical Sections over Geo-Distributed State. 
 
 
-[ICFEC 2020] Seyed Hossein Mortazavi, Mohammad Salehe, Bharath Balasubramanian, Eyal de Lara, Shankaranarayanan PuzhavakathNarayanan. SessionStore: A Session-Aware Datastore for the Edge. 
+[ICFEC 2020] 
+Seyed Hossein Mortazavi, Mohammad Salehe, Bharath Balasubramanian, Eyal de Lara, Shankaranarayanan PuzhavakathNarayanan. SessionStore: A Session-Aware Datastore for the Edge. 
 
 <a name="service"></a>
 # Service
