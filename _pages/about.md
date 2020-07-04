@@ -17,9 +17,9 @@ In a prohibitively long &#128564;, but enjoyable <span style="color:blue">Ph.D. 
 
 <a name="currentwork"></a>
 # New!
-* Nokia issues press release on our live trial of the 5G RAN controller. This controller was built together by ATT and Nokia (I am the product owner from the ATT side) and has been open-sourced through ORAN.
-* Work on multi-site state management (MUSIC) released as part of the Open-network Automation Platform (ONAP) and accepted at VLDB and ICDCS 2020. 
-* Measurement study of augmented reality on celullar networks selected as a best paper finalist at IEEE SECON 2020. 
+* Nokia issues <a href="https://www.nokia.com/about-us/news/releases/2020/06/18/nokia-and-att-run-successful-trial-of-the-ran-intelligent-controller-over-commercial-5g/">press release</a> on our live trial of the 5G RAN controller. I was part of the team that built this controller along with Nokia and we have open-sourced it through ORAN.
+* Work on multi-site state management (MUSIC) <a href="https://www.onap.org/announcement/2020/06/18/onaps-6th-release-frankfurt-available-now-most-comprehensive-secure-and-collaborative-software-to-accelerate-5g-deployments">released</a> as part of the Open-network Automation Platform (ONAP) and accepted at <a href="https://bharathgituser.github.io/files/metric_vldb_2020.pdf">VLDB</a> and <a href="https://bharathgituser.github.io/files/music_icdcs_2020.pdf">ICDCS</a> 2020. 
+* Measurement <a href="https://bharathgituser.github.io/files/ar_secon_2020.pdf">study</a> of augmented reality on celullar networks selected as a best paper finalist at IEEE SECON 2020. 
 
 
 
