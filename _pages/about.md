@@ -8,12 +8,12 @@ redirect_from:
   - /about.html
 ---
 
-Thanks for stopping by :-) I am an applied researcher working on topics that will hopefully bring value to both ATT and the larger research community. My interests span across the following areas:
+Thanks for stopping by :-) I am an applied researcher working on topics that will hopefully bring value to both ATT and the larger research community. My interests span the following areas:
 * Software-defined network control (both core and RAN)
-* Application verticals like video, AR, drones etc, that can leverage fine-grained control of the LTE/5G RAN
+* Application verticals like Video, AR, drones etc, that can leverage fine-grained control of the LTE/5G RAN
 * Large-scale distributed systems and storage 
 
-In a prohibitively long, but enjoyable Ph.D. at UT Austin under Vijay Garg, I focused on coding-theoretic fault-tolerance in distributed systems. Following this, I worked as postdoc in the EE department at Princeton University with Mung Chiang.
+In a prohibitively long, but enjoyable <span style="color:blue">Ph.D. at UT Austin</span> under Vijay Garg, I focused on coding-theoretic fault-tolerance in distributed systems. Following this, I worked as <span style="color:blue">Postdoc at Princeton University</span> in with Mung Chiang.
 
 <a name="currentwork"></a>
 # Current Work
