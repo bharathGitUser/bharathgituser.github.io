@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Thanks for stopping by :-) I am an applied researcher working on topics that will hopefully bring value to both ATT and the larger research community, preferably in that order&#128556;. My interests span the following areas:
+Thanks for stopping by :-) I am an applied researcher working on topics that will hopefully bring value to both ATT and the larger research community, preferably in that order &#128556;. My interests span the following areas:
 * Software-defined network control of both the core and RAN
 * Application verticals like Video, AR, drones etc, that can leverage fine-grained control of the LTE/5G RAN
 * Large-scale distributed systems and storage 
