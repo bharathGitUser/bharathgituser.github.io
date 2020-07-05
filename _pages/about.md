@@ -32,9 +32,8 @@ In a prohibitively long &#128564;, but enjoyable Ph.D. at UT Austin under Vijay 
 Enrique Saurez, Bharath Balasubramanian, Richard Schlichting, Brendan Tschaen, Shankaranarayanan Puzhavakath Narayanan, Zhe Huang and Umakishore Ramachandran. 
 
 ### [SECON] Characterization of Multi-User Augmented Reality over Cellular Networks 
-<p style="color:blue;">(Best Paper Finalist!)</p>
 Kittipat Apicharttrisorn, Bharath Balasubramanian, Jiasi Chen, Rajarajan Sivaraj, Yi-Zhen Tsai , Rittwik Jana , Srikanth Krishnamurthy, Tuyen Tran and Yu Zhou. 
-
+<span style="color:blue">(Best Paper Finalist!)</span>
 
 ### [ICDCS] MUSIC: Multi-Site Critical Sections over Geo-Distributed State. 
 Bharath Balasubramanian, Pamela Zave, Richard Schlichting, Mohammad Salehe, Shankaranarayanan Puzhavakath Narayanan, Seyed Hossein Mortazavi, Eyal De Lara, Matti Hiltunen , Kaustubh Joshi and Gueyoung Jung. 
