@@ -17,7 +17,7 @@ In a prohibitively long &#128564;, but enjoyable Ph.D. at UT Austin under Vijay 
 
 <a name="new"></a>
 # New!
-* Nokia <a href="https://www.nokia.com/about-us/news/releases/2020/06/18/nokia-and-att-run-successful-trial-of-the-ran-intelligent-controller-over-commercial-5g/">press release</a> on the live trial of a 5G/LTE RAN controller -- a joint effort intitated by ATT and Nokia. I was part of the team that built this controller and performed the trial. This controller has been open-sourced through the <a href="https://www.o-ran.org/">O-RAN</a> alliance. 
+* Nokia <a href="https://www.nokia.com/about-us/news/releases/2020/06/18/nokia-and-att-run-successful-trial-of-the-ran-intelligent-controller-over-commercial-5g/">press release</a> on the live trial of the 5G/LTE RAN Intelligent controller (RIC) that was intitated by ATT and Nokia. I was part of the team that built this controller and performed the trial. This controller has been open-sourced through the <a href="https://www.o-ran.org/">O-RAN</a> alliance. 
 * Work on multi-site state management (MUSIC) <a href="https://www.onap.org/announcement/2020/06/18/onaps-6th-release-frankfurt-available-now-most-comprehensive-secure-and-collaborative-software-to-accelerate-5g-deployments">released</a> as part of the Open-network Automation Platform (ONAP) and accepted at <a href="https://bharathgituser.github.io/files/metric_vldb_2020.pdf">VLDB</a> and <a href="https://bharathgituser.github.io/files/music_icdcs_2020.pdf">ICDCS</a> 2020. 
 * Measurement <a href="https://bharathgituser.github.io/files/ar_secon_2020.pdf">study</a> of augmented reality on celullar networks selected as a best paper finalist at IEEE SECON 2020. 
 
@@ -33,6 +33,7 @@ Enrique Saurez, Bharath Balasubramanian, Richard Schlichting, Brendan Tschaen, S
 
 ### [SECON] Characterization of Multi-User Augmented Reality over Cellular Networks 
 Kittipat Apicharttrisorn, Bharath Balasubramanian, Jiasi Chen, Rajarajan Sivaraj, Yi-Zhen Tsai , Rittwik Jana , Srikanth Krishnamurthy, Tuyen Tran and Yu Zhou. 
+
 <span style="color:blue">(Best Paper Finalist!)</span>
 
 ### [ICDCS] MUSIC: Multi-Site Critical Sections over Geo-Distributed State. 
