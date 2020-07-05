@@ -27,8 +27,7 @@ In a prohibitively long &#128564;, but enjoyable Ph.D. at UT Austin under Vijay 
 # New Publications! (i.e. not yet on DBLP)
 
 
-## [VLDB 2020] 
-
+### [VLDB 2020] 
 Enrique Saurez, Bharath Balasubramanian, Richard Schlichting, Brendan Tschaen, Shankaranarayanan Puzhavakath Narayanan, Zhe Huang and Umakishore Ramachandran. A    Drop-in Middleware for Serializable DB Clustering across Geo-distributed Sites. 
 
 
