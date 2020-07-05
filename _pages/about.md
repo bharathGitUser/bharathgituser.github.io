@@ -25,15 +25,12 @@ In a prohibitively long &#128564;, but enjoyable Ph.D. at UT Austin under Vijay 
 
 <a name="publications"></a>
 # Publications
-
 ## 2020
-
 ### [VLDB 2020] A Drop-in Middleware for Serializable DB Clustering across Geo-distributed Sites. 
 Enrique Saurez, Bharath Balasubramanian, Richard Schlichting, Brendan Tschaen, Shankaranarayanan Puzhavakath Narayanan, Zhe Huang and Umakishore Ramachandran. 
 
-
-[SECON 2020] [Nominated for Best Paper!]  
-Kittipat Apicharttrisorn, Bharath Balasubramanian, Jiasi Chen, Rajarajan Sivaraj, Yi-Zhen Tsai , Rittwik Jana , Srikanth Krishnamurthy, Tuyen Tran and Yu Zhou. Characterization of Multi-User Augmented Reality over Cellular Networks in SECON 2020. 
+### [SECON 2020] [Best Paper Finalist] Characterization of Multi-User Augmented Reality over Cellular Networks 
+Kittipat Apicharttrisorn, Bharath Balasubramanian, Jiasi Chen, Rajarajan Sivaraj, Yi-Zhen Tsai , Rittwik Jana , Srikanth Krishnamurthy, Tuyen Tran and Yu Zhou. 
 
 
 [ICDCS 2020] 
