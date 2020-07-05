@@ -31,8 +31,9 @@ In a prohibitively long &#128564;, but enjoyable Ph.D. at UT Austin under Vijay 
 ### [VLDB] A Drop-in Middleware for Serializable DB Clustering across Geo-distributed Sites. 
 Enrique Saurez, Bharath Balasubramanian, Richard Schlichting, Brendan Tschaen, Shankaranarayanan Puzhavakath Narayanan, Zhe Huang and Umakishore Ramachandran. 
 
-### [SECON] Characterization of Multi-User Augmented Reality over Cellular Networks <p style="color:blue;">Best Paper Finalist</p>
+### [SECON] Characterization of Multi-User Augmented Reality over Cellular Networks 
 Kittipat Apicharttrisorn, Bharath Balasubramanian, Jiasi Chen, Rajarajan Sivaraj, Yi-Zhen Tsai , Rittwik Jana , Srikanth Krishnamurthy, Tuyen Tran and Yu Zhou. 
+<p style="color:blue;">Best Paper Finalist!</p>
 
 ### [ICDCS] MUSIC: Multi-Site Critical Sections over Geo-Distributed State. 
 Bharath Balasubramanian, Pamela Zave, Richard Schlichting, Mohammad Salehe, Shankaranarayanan Puzhavakath Narayanan, Seyed Hossein Mortazavi, Eyal De Lara, Matti Hiltunen , Kaustubh Joshi and Gueyoung Jung. 
