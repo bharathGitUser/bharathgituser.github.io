@@ -25,20 +25,20 @@ In a prohibitively long &#128564;, but enjoyable Ph.D. at UT Austin under Vijay 
 
 <a name="publications"></a>
 # Publications
+
 ## 2020
-### [VLDB 2020] A Drop-in Middleware for Serializable DB Clustering across Geo-distributed Sites. 
+
+### [VLDB] A Drop-in Middleware for Serializable DB Clustering across Geo-distributed Sites. 
 Enrique Saurez, Bharath Balasubramanian, Richard Schlichting, Brendan Tschaen, Shankaranarayanan Puzhavakath Narayanan, Zhe Huang and Umakishore Ramachandran. 
 
-### [SECON 2020] [Best Paper Finalist] Characterization of Multi-User Augmented Reality over Cellular Networks 
+### [SECON] Characterization of Multi-User Augmented Reality over Cellular Networks <p style="color:blue;">Best Paper Finalist</p>
 Kittipat Apicharttrisorn, Bharath Balasubramanian, Jiasi Chen, Rajarajan Sivaraj, Yi-Zhen Tsai , Rittwik Jana , Srikanth Krishnamurthy, Tuyen Tran and Yu Zhou. 
 
+### [ICDCS] MUSIC: Multi-Site Critical Sections over Geo-Distributed State. 
+Bharath Balasubramanian, Pamela Zave, Richard Schlichting, Mohammad Salehe, Shankaranarayanan Puzhavakath Narayanan, Seyed Hossein Mortazavi, Eyal De Lara, Matti Hiltunen , Kaustubh Joshi and Gueyoung Jung. 
 
-[ICDCS 2020] 
-Bharath Balasubramanian, Pamela Zave, Richard Schlichting, Mohammad Salehe, Shankaranarayanan Puzhavakath Narayanan, Seyed Hossein Mortazavi, Eyal De Lara, Matti Hiltunen , Kaustubh Joshi and Gueyoung Jung. MUSIC: Multi-Site Critical Sections over Geo-Distributed State. 
-
-
-[ICFEC 2020] 
-Seyed Hossein Mortazavi, Mohammad Salehe, Bharath Balasubramanian, Eyal de Lara, Shankaranarayanan PuzhavakathNarayanan. SessionStore: A Session-Aware Datastore for the Edge. 
+### [ICFEC] SessionStore: A Session-Aware Datastore for the Edge. 
+Seyed Hossein Mortazavi, Mohammad Salehe, Bharath Balasubramanian, Eyal de Lara, Shankaranarayanan PuzhavakathNarayanan. 
 
 <a name="service"></a>
 # Service
