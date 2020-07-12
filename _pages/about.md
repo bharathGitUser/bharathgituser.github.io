@@ -50,7 +50,7 @@ For my older papers, please refer to <a href="https://dblp.org/pers/b/Balasubram
 
 One of the biggest perks of this job is that it provides me with many opportunities to work with students. If you are interested in working on any of the topics mentioned above, please do get in touch with me! It could either be through an internship or simply a no-cost colloboration where we work together on topics of common interest. 
 
-I have had the privilege of working with these Ph.D. students with my collegues at ATT and academia: 
+I have had the privilege of working with these Ph.D. students with my collegues at ATT and/or academia: 
 
 * <a href="https://www.linkedin.com/in/yi-zhen-tsai/">Yi-Zhen (Angela) Tsai</a>, UC Riverside, 2019-current
 * <a href="https://www.cs.ucr.edu/~kapic001/mypage/">Kittipat Apicharttrisorn (Patrick)</a>, UC Riverside, 2019-present
@@ -63,7 +63,8 @@ I have had the privilege of working with these Ph.D. students with my collegues 
 * <a href="https://www.utoronto.ca/news/outstanding-scientist-remembering-mohammad-salehe">Mohammad Salehe</a>, University of Toronto, 2017-2020
 * <a href="http://individual.utoronto.ca/mortazavi/">Seyed Hossein Mortazavi</a>, University of Toronto, 2017-2020
 * <a href="https://www.linkedin.com/in/t-mahmood/">Tariq Mahmood</a>, Purdue University, 2015-2017 
-* <a href="https://sites.google.com/site/shankarpnsn/">Shankaranarayanan Puzhavakath Narayanan (Shankar)</a>, Purdue University, 2014-2015
+* <a href="https://sites.google.com/site/shankarpnsn/">Shankaranarayanan Puzhavakath Narayanan (Shankar)</a>, Purdue University, 2015-2016
+* <a href="https://www.linkedin.com/in/michael-wang-77118439/">Michael Wang</a>, Princeton University, 2015-2016
 
 
 <a name="service"></a>
