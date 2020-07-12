@@ -49,4 +49,20 @@ Program Committees:  ICDCS, SEC, IEEE Cloud, SRDS.
 
 Invited Reviews: Journal of Operations Research, TPDS, JPDC, ICDCS, OPODIS, DISC, SSS
 
+<a name="students"></a>
+# Students
+
+I have had the immeasurable privilege of mentoring these Ph.D. students with my collegues in industry and academia:
+
+* Yi-Zhen (Angela) Tsai, UC Riverside, 2019-current
+* <a href="https://www.cs.ucr.edu/~kapic001/mypage/">Kittipat Apicharttrisorn (Patrick)</a>, UC Riverside, 2019-present
+* <a href="https://www.cs.purdue.edu/homes/meng72/">Jiayi Meng</a>, Purdue University, 2019-present
+* <a href="https://www.cc.gatech.edu/grads/e/esaureza/">Enrique Saurez</a>, Georgia Tech, 2017-present
+* <a href="https://aalsudais.github.io/">Azzam Alsudais</a>, UC Bolder, 2017-present
+* <a href="https://www3.cs.stonybrook.edu/~mwajahat/">Muhammad Wajahat</a>, SUNY Stony Brook, 2017-present
+
+
+
+
+
 
