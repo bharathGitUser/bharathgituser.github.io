@@ -48,9 +48,9 @@ For my older papers, please refer to <a href="https://dblp.org/pers/b/Balasubram
 <a name="students"></a>
 # Students
 
-One of the biggest perks of this job is that it provides me with many opportunities to work with students. If you are interested in working on any of the topics I have mentioned above, please do get in touch with me! It could either be through an internship or simply a no-cost colloboration where we work together on topics of common interest. 
+One of the biggest perks of this job is that it provides me with many opportunities to work with students. If you are interested in working on any of the topics mentioned above, please do get in touch with me! It could either be through an internship or simply a no-cost colloboration where we work together on topics of common interest. 
 
-I have had the privilege of mentoring these Ph.D. students with my collegues at ATT and academia: 
+I have had the privilege of working with these Ph.D. students with my collegues at ATT and academia: 
 
 * <a href="https://www.linkedin.com/in/yi-zhen-tsai/">Yi-Zhen (Angela) Tsai</a>, UC Riverside, 2019-current
 * <a href="https://www.cs.ucr.edu/~kapic001/mypage/">Kittipat Apicharttrisorn (Patrick)</a>, UC Riverside, 2019-present
