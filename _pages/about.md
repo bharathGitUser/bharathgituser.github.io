@@ -48,7 +48,7 @@ For my older papers, please refer to <a href="https://dblp.org/pers/b/Balasubram
 <a name="students"></a>
 # Students
 
-One of the biggest perks of this job is that it allows me to work with students. If you are interested in working on any of the topics I have mentioned above, please do get in touch with me! It could either be through an internship or simply a no-cost colloboration where we work together on topics of common interest. 
+One of the biggest perks of this job is that it provides me with many opportunities to work with students. If you are interested in working on any of the topics I have mentioned above, please do get in touch with me! It could either be through an internship or simply a no-cost colloboration where we work together on topics of common interest. 
 
 I have had the privilege of mentoring these Ph.D. students with my collegues at ATT and academia: 
 
