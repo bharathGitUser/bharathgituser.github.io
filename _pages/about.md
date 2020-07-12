@@ -64,7 +64,7 @@ I have had the privilege of working with these Ph.D. students with my collegues 
 * <a href="http://individual.utoronto.ca/mortazavi/">Seyed Hossein Mortazavi</a>, University of Toronto, 2017-2020
 * <a href="https://www.linkedin.com/in/t-mahmood/">Tariq Mahmood</a>, Purdue University, 2015-2017 
 * <a href="https://sites.google.com/site/shankarpnsn/">Shankaranarayanan Puzhavakath Narayanan (Shankar)</a>, Purdue University, 2015-2016
-* <a href="https://www.linkedin.com/in/michael-wang-77118439/">Michael Wang</a>, Princeton University, 2015-2016
+* <a href="https://www.linkedin.com/in/michael-wang-77118439/">Michael Wang</a>, Princeton University, 2013-2014
 
 
 <a name="service"></a>
