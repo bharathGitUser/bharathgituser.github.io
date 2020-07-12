@@ -43,12 +43,6 @@ Seyed Hossein Mortazavi, Mohammad Salehe, Bharath Balasubramanian, Eyal de Lara,
 
 For my older papers, please refer to <a href="https://dblp.org/pers/b/Balasubramanian:Bharath.html">DBLP</a>. 
 
-<a name="service"></a>
-# Service
-Program Committees:  ICDCS, SEC, IEEE Cloud, SRDS. 
-
-Invited Reviews: Journal of Operations Research, TPDS, JPDC, ICDCS, OPODIS, DISC, SSS
-
 <a name="students"></a>
 # Students
 
@@ -61,7 +55,11 @@ I have had the immeasurable privilege of mentoring these Ph.D. students with my 
 * <a href="https://aalsudais.github.io/">Azzam Alsudais</a>, UC Bolder, 2017-present
 * <a href="https://www3.cs.stonybrook.edu/~mwajahat/">Muhammad Wajahat</a>, SUNY Stony Brook, 2017-present
 
+<a name="service"></a>
+# Service
+Program Committees:  ICDCS, SEC, IEEE Cloud, SRDS. 
 
+Invited Reviews: Journal of Operations Research, TPDS, JPDC, ICDCS, OPODIS, DISC, SSS
 
 
 
