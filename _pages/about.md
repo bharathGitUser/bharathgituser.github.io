@@ -15,7 +15,7 @@ Thanks for stopping by! I am an applied researcher working on topics that will h
 
 In a prohibitively long &#128564;, but enjoyable Ph.D. at UT Austin under Vijay Garg, I focused on coding-theoretic fault-tolerance in distributed systems. Following this, I worked as a Postdoc at Princeton University with Mung Chiang.
 
-My wife (Mini) writes/edits children's books for a living. When you don't want to just read pulsatingly thrilling and pulpy papers about data fault tolerance, do drop by her site: https://missmini.home.blog/. 
+My wife (Mini) writes/edits children's books for a living. When you don't want to just read pulsatingly thrilling and pulpy papers about data fault tolerance, do drop by her <a href="https://missmini.home.blog">blog</a>. 
 
 <a name="new"></a>
 # New!
