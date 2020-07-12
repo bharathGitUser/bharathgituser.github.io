@@ -8,12 +8,14 @@ redirect_from:
   - /about.html
 ---
 
-Thanks for stopping by :-) I am an applied researcher working on topics that will hopefully bring value to both ATT and the larger research community, preferably in that order &#128556;. My interests span the following areas:
+Thanks for stopping by! I am an applied researcher working on topics that will hopefully bring value to both ATT and the larger research community, preferably in that order &#128556;. My interests span the following areas:
 * Software-defined network control of both the core and RAN
 * Application verticals like video, augmented reality, drones etc, that can leverage fine-grained control of the 5G/LTE RAN
 * Large-scale distributed systems and storage 
 
 In a prohibitively long &#128564;, but enjoyable Ph.D. at UT Austin under Vijay Garg, I focused on coding-theoretic fault-tolerance in distributed systems. Following this, I worked as a Postdoc at Princeton University with Mung Chiang.
+
+My wife (Mini) writes/edits children's books for a living. When you don't want to just read pulsatingly thrilling and pulpy papers about data fault tolerance, do drop by her site: https://missmini.home.blog/. 
 
 <a name="new"></a>
 # New!
