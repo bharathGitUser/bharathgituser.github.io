@@ -48,14 +48,23 @@ For my older papers, please refer to <a href="https://dblp.org/pers/b/Balasubram
 <a name="students"></a>
 # Students
 
-I have had the immeasurable privilege of mentoring these Ph.D. students with my collegues in industry and academia:
+One of the biggest perks of this job is that it allows me to work with students. If you are interested in working on any of the topics I have mentioned above, please do get in touch with me! It could either be through an internship or simply a no-cost colloboration where we work together on topics of common interest. 
+
+I have had the privilege of mentoring these Ph.D. students with my collegues at ATT and academia: 
 
 * Yi-Zhen (Angela) Tsai, UC Riverside, 2019-current
 * <a href="https://www.cs.ucr.edu/~kapic001/mypage/">Kittipat Apicharttrisorn (Patrick)</a>, UC Riverside, 2019-present
+* <a href="https://ece.northeastern.edu/wineslab/Lorenzo.php">Lorenzo Bertizzolo</a>, Northeastern University, 2019-present
 * <a href="https://www.cs.purdue.edu/homes/meng72/">Jiayi Meng</a>, Purdue University, 2019-present
 * <a href="https://www.cc.gatech.edu/grads/e/esaureza/">Enrique Saurez</a>, Georgia Tech, 2017-present
 * <a href="https://aalsudais.github.io/">Azzam Alsudais</a>, UC Bolder, 2017-present
 * <a href="https://www3.cs.stonybrook.edu/~mwajahat/">Muhammad Wajahat</a>, SUNY Stony Brook, 2017-present
+* <a href="https://www.linkedin.com/in/shijing-li-b54910a2/">Shijing Li</a>, George Washgington University, 2017-2020
+* <a href="https://www.utoronto.ca/news/outstanding-scientist-remembering-mohammad-salehe">Mohammad Salehe</a>, University of Toronto, 2017-2020
+* <a href="http://individual.utoronto.ca/mortazavi/">Seyed Hossein Mortazavi</a>, University of Toronto, 2017-2020
+* Tariq Mahmood, Purdue University, 2015-2016
+* <a href="https://sites.google.com/site/shankarpnsn/">Shankaranarayanan Puzhavakath Narayanan (Shankar)</a>, Purdue University, 2014-2015
+
 
 <a name="service"></a>
 # Service
