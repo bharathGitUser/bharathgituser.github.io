@@ -14,7 +14,7 @@ hopefully achieve the trinity of production deployments, top-tier conference pap
 * Application verticals like video, augmented reality, drones etc, that can leverage fine-grained control of the 5G/LTE RAN
 * Large-scale distributed systems and storage 
 
-In a prohibitively long &#128564;, but enjoyable Ph.D. at UT Austin under Vijay Garg, I focused on coding-theoretic fault-tolerance in distributed systems. Following this, I worked as a Postdoc at Princeton University with Mung Chiang.
+In a prohibitively long &#128564;, but enjoyable Ph.D. (2005-2012) at UT Austin under Vijay Garg, I focused on coding-theoretic fault-tolerance in distributed systems. Following this, I worked as a Postdoc at Princeton University with Mung Chiang (2012-2014). Since then I have been at ATT Labs Research. 
 
 My wife, Mini, writes and edits children's books. If you want a read beyond my pulsatingly thrilling and pulpy papers, do drop by her <a href="https://missmini.home.blog">blog</a>. 
 
@@ -23,6 +23,15 @@ My wife, Mini, writes and edits children's books. If you want a read beyond my p
 * Nokia <a href="https://www.nokia.com/about-us/news/releases/2020/06/18/nokia-and-att-run-successful-trial-of-the-ran-intelligent-controller-over-commercial-5g/">press release</a> on the live trial of the 5G/LTE RAN Intelligent controller (RIC) that was intitated by ATT and Nokia. I was part of the team that built this controller and performed the trial. This controller has been open-sourced through the <a href="https://www.o-ran.org/">O-RAN</a> alliance. 
 * Work on multi-site state management (MUSIC) <a href="https://www.onap.org/announcement/2020/06/18/onaps-6th-release-frankfurt-available-now-most-comprehensive-secure-and-collaborative-software-to-accelerate-5g-deployments">released</a> as part of the Open-network Automation Platform (ONAP) and accepted at <a href="https://bharathgituser.github.io/files/metric_vldb_2020.pdf">VLDB</a> and <a href="https://bharathgituser.github.io/files/music_icdcs_2020.pdf">ICDCS</a> 2020. 
 * Measurement <a href="https://bharathgituser.github.io/files/ar_secon_2020.pdf">study</a> of augmented reality on celullar networks selected as a best paper finalist at IEEE SECON 2020. 
+
+
+<a name="recent"></a>
+# Recent Work
+Currently (2018-Present), my focus is on the software-defined control of the RAN. Specifically, I perform the following roles:
+* Product owner for the 5G/LTE RAN Intelligent controller (RIC) that was intitated by ATT and Nokia and is now open-sourced through the <a href="https://www.o-ran.org/">O-RAN</a> alliance.
+
+
+
 
 
 
