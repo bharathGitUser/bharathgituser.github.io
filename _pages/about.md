@@ -27,10 +27,10 @@ My wife, Mini, writes and edits children's books. If you want a read beyond my p
 
 <a name="recent"></a>
 # Recent Work
-Currently (2018-Present), my focus is on the software-defined control of the RAN. Specifically, I work on the following aspects of a 5G/LTE RAN Intelligent controller (RIC) that was intitated by ATT and Nokia and is now open-sourced through the <a href="https://www.o-ran.org/">O-RAN</a> alliance.
-* As product owner for the RIC, I identify key software deliverables across various teams in ATT and Nokia, coordinate live trials of the software and associated use-cases on our network and lead a team that performs the end-to-end testing and validation of the RIC. 
+Currently (2018-Present), my focus is on the software-defined control of the RAN. Specifically, I work on the following aspects of a 5G/LTE RAN Intelligent controller (RIC) that was intitated by ATT and Nokia and is now open-sourced through the <a href="https://www.o-ran.org/">O-RAN</a> alliance:
+* As product of the RIC, I identify key software deliverables across various teams in ATT and Nokia, coordinate live trials of the software and associated use-cases on our network and lead a team that performs the end-to-end testing and validation of the RIC. 
 * As use-case manager for the RIC, work with various business-units to prioritize use-cases of the RIC and perform financial modeling to convert technical gains (e.g. % throughput improvement) into actual dollars saved. 
-* Colloborate with Universities to engage in research on forward looking applications of the RIC in diverse areas such as <a drones  href="https://bharathgituser.github.io/files/drone_hotnets_2020.pdf">(HotNets 2020)</a>, localization <a href="https://bharathgituser.github.io/files/pinpoint_lanman_2020.pdf">(Lanman 2020)</a>, augmented reality <a href="https://bharathgituser.github.io/files/ar_secon_2020.pdf">(SECON 2020)</a> and video analytics. 
+* Collaborate with universities forward-looking applications of the RIC in diverse areas such as augmented reality <a href="https://bharathgituser.github.io/files/ar_secon_2020.pdf">(Secon 2020)</a>, localization <a href="https://bharathgituser.github.io/files/pinpoint_lanman_2020.pdf">(Lanman 2020)</a>, drones <a drones  href="https://bharathgituser.github.io/files/drone_hotnets_2020.pdf">(HotNets 2020)</a>, and video analytics. 
 
 
 
