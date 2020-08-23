@@ -40,21 +40,25 @@ Prior to this (2014-2018) my main focus was on the state management of ATT's net
 
 
 <a name="publications"></a>
-# Publications
+# Recent Publications
 
-## 2020
+### [VLDB 2020] A Drop-in Middleware for Serializable DB Clustering across Geo-distributed Sites
+Enrique Saurez, Bharath Balasubramanian, Richard Schlichting, Brendan Tschaen, Shankaranarayanan Puzhavakath Narayanan, Zhe Huang and Umakishore Ramachandran
 
-### [VLDB] A Drop-in Middleware for Serializable DB Clustering across Geo-distributed Sites. 
-Enrique Saurez, Bharath Balasubramanian, Richard Schlichting, Brendan Tschaen, Shankaranarayanan Puzhavakath Narayanan, Zhe Huang and Umakishore Ramachandran. 
-
-### [SECON] Characterization of Multi-User Augmented Reality over Cellular Networks 
+### [SECON 2020] Characterization of Multi-User Augmented Reality over Cellular Networks 
 Kittipat Apicharttrisorn, Bharath Balasubramanian, Jiasi Chen, Rajarajan Sivaraj, Yi-Zhen Tsai , Rittwik Jana , Srikanth Krishnamurthy, Tuyen Tran and Yu Zhou. 
 <br><span style="color:blue">Best Paper Finalist!</span>
 
-### [ICDCS] MUSIC: Multi-Site Critical Sections over Geo-Distributed State. 
-Bharath Balasubramanian, Pamela Zave, Richard Schlichting, Mohammad Salehe, Shankaranarayanan Puzhavakath Narayanan, Seyed Hossein Mortazavi, Eyal De Lara, Matti Hiltunen , Kaustubh Joshi and Gueyoung Jung. 
+### [ICDCS 2020] MUSIC: Multi-Site Critical Sections over Geo-Distributed State 
+Bharath Balasubramanian, Pamela Zave, Richard Schlichting, Mohammad Salehe, Shankaranarayanan Puzhavakath Narayanan, Seyed Hossein Mortazavi, Eyal De Lara, Matti Hiltunen , Kaustubh Joshi and Gueyoung Jung
 
-### [ICFEC] SessionStore: A Session-Aware Datastore for the Edge. 
+### [HotMobile 2020] Live and let Live: Flying UAVs Without affecting Terrestrial UEs 
+Lorenzo Bertizzolo, Tuyen X. Tran, Brian Amento, Bharath Balasubramanian, Rittwik Jana, K. Hal Purdy, Yu Zhou, Tommaso Melodia
+
+### [LANMAN 2020] A Study of Network-Side 5G User Localization Using Angle-Based Fingerprints
+Jiayi Meng, Abhigyan Sharma, Tuyen X. Tran, Bharath Balasubramanian, Gueyoung Jung, Matti A. Hiltunen, Y. Charlie Hu
+
+### [ICFEC 2020] SessionStore: A Session-Aware Datastore for the Edge. 
 Seyed Hossein Mortazavi, Mohammad Salehe, Bharath Balasubramanian, Eyal de Lara, Shankaranarayanan PuzhavakathNarayanan. 
 
 For my older papers, please refer to <a href="https://dblp.org/pers/b/Balasubramanian:Bharath.html">DBLP</a>. 
