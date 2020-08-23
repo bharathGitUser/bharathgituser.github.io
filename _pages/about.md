@@ -22,21 +22,21 @@ My wife, Mini, writes and edits children's books. If you want something _slightl
 # New!
 * Nokia <a href="https://www.nokia.com/about-us/news/releases/2020/06/18/nokia-and-att-run-successful-trial-of-the-ran-intelligent-controller-over-commercial-5g/">press release</a> on the live trial of the 5G/LTE RAN Intelligent controller (RIC) that was intitated by ATT and Nokia. I was part of the team that built this controller and performed the trial. This controller has been open-sourced through the <a href="https://www.o-ran.org/">O-RAN</a> alliance. 
 * Work on multi-site state management (MUSIC) <a href="https://www.onap.org/announcement/2020/06/18/onaps-6th-release-frankfurt-available-now-most-comprehensive-secure-and-collaborative-software-to-accelerate-5g-deployments">released</a> as part of the Open-network Automation Platform (ONAP) and accepted at <a href="https://bharathgituser.github.io/files/metric_vldb_2020.pdf">VLDB</a> and <a href="https://bharathgituser.github.io/files/music_icdcs_2020.pdf">ICDCS</a> 2020. 
-* Measurement <a href="https://bharathgituser.github.io/files/ar_secon_2020.pdf">study</a> of augmented reality on celullar networks selected as a best paper finalist at IEEE SECON 2020. 
+* Measurement <a href="https://bharathgituser.github.io/files/ar_secon_2020.pdf">study</a> of augmented reality on cellular networks selected as a best paper finalist at IEEE SECON 2020. 
 
 
 <a name="recent"></a>
 # Recent Work
-Currently (2018-Present), my focus is on the software-defined control of the RAN. Specifically, I work on the following aspects of a 5G/LTE RAN Intelligent controller (RIC) that was intitated by ATT and Nokia and is now open-sourced through the <a href="https://www.o-ran.org/">O-RAN</a> alliance:
+Currently (2018-Present), my focus is on the software-defined control of the RAN. Specifically, I work on the following aspects of a 5G/LTE RAN Intelligent controller (RIC) that was initiated by ATT and Nokia and is now open-sourced through the <a href="https://www.o-ran.org/">O-RAN</a> alliance:
 * As product owner of the RIC, I identify key software deliverables across various teams in ATT and Nokia, coordinate live trials of the software and associated use-cases on our network and lead a team that performs the end-to-end testing and validation of the RIC. 
 * As use-case manager for the RIC, work with various business-units to prioritize use-cases of the RIC and perform financial modeling to convert technical gains (e.g. % throughput improvement) into actual dollars saved. 
 * Collaborate with universities on forward-looking applications of the RIC in diverse areas such as augmented reality <a href="https://bharathgituser.github.io/files/ar_secon_2020.pdf">(Secon 2020)</a>, localization <a href="https://bharathgituser.github.io/files/pinpoint_lanman_2020.pdf">(Lanman 2020)</a>, drones <a drones  href="https://bharathgituser.github.io/files/drone_hotnets_2020.pdf">(HotNets 2020)</a>, and video analytics. 
 
 Prior to this (2014-2018) my main focus was on the state management of ATT's network automation platform:
-* Concieved and built the first version of a multi-site key-value store (MUSIC) to address ATT's geo-distribution needs. 
-* Worked with production teams to identify clients for this tool, sucessfully deploy this tool in our network and transition the code-base. MUSIC has been running in production for over 3 years now.
+* Conceived and built the first version of a multi-site key-value store (MUSIC) to address ATT's geo-distribution needs. 
+* Worked with production teams to identify clients for this tool, successfully deploy this tool in our network and transition the code-base. MUSIC has been running in production for over 3 years now.
 * Served as the Project Technical Lead for MUSIC in the open source network automation platform (<a href ="https://www.onap.org/">ONAP</a>) where I worked to evangelize the tool and solicited <a href = "https://gerrit.onap.org/r/gitweb?p=music.git">code</a> contributions from several companies (Intel, IBM) and universities (GeorgiaTech, University of Toronto).
-* Collaborated with universities (GeorgiaTech, University of Toronto, US Naval Academy and Princeton University) to enhance the code-base, formally verify MUSIC and publish it in conferences (<a href="https://bharathgituser.github.io/files/metric_vldb_2020.pdf">VLDB</a>, <a href="https://bharathgituser.github.io/files/music_icdcs_2020.pdf">ICDCS</a> 2020). 
+* Collaborated with GeorgiaTech, University of Toronto, US Naval Academy and Princeton University to enhance the code-base, formally verify MUSIC and publish it in conferences (<a href="https://bharathgituser.github.io/files/metric_vldb_2020.pdf">VLDB</a>, <a href="https://bharathgituser.github.io/files/music_icdcs_2020.pdf">ICDCS</a> 2020). 
 
 
 <a name="publications"></a>
@@ -46,11 +46,11 @@ Prior to this (2014-2018) my main focus was on the state management of ATT's net
 Enrique Saurez, Bharath Balasubramanian, Richard Schlichting, Brendan Tschaen, Shankaranarayanan Puzhavakath Narayanan, Zhe Huang and Umakishore Ramachandran
 
 ### [SECON 2020] Characterization of Multi-User Augmented Reality over Cellular Networks 
-Kittipat Apicharttrisorn, Bharath Balasubramanian, Jiasi Chen, Rajarajan Sivaraj, Yi-Zhen Tsai , Rittwik Jana , Srikanth Krishnamurthy, Tuyen Tran and Yu Zhou. 
+Kittipat Apicharttrisorn, Bharath Balasubramanian, Jiasi Chen, Rajarajan Sivaraj, Yi-Zhen Tsai , Rittwik Jana , Srikanth Krishnamurthy, Tuyen Tran and Yu Zhou
 <br><span style="color:blue">Best Paper Finalist!</span>
 
 ### [ICDCS 2020] MUSIC: Multi-Site Critical Sections over Geo-Distributed State 
-Bharath Balasubramanian, Pamela Zave, Richard Schlichting, Mohammad Salehe, Shankaranarayanan Puzhavakath Narayanan, Seyed Hossein Mortazavi, Eyal De Lara, Matti Hiltunen , Kaustubh Joshi and Gueyoung Jung
+Bharath Balasubramanian, Pamela Zave, Richard Schlichting, Mohammad Salehe, Shankaranarayanan Puzhavakath Narayanan, Seyed Hossein Mortazavi, Eyal De Lara, Matti Hiltunen, Kaustubh Joshi and Gueyoung Jung
 
 ### [HotMobile 2020] Live and let Live: Flying UAVs Without affecting Terrestrial UEs 
 Lorenzo Bertizzolo, Tuyen X. Tran, Brian Amento, Bharath Balasubramanian, Rittwik Jana, K. Hal Purdy, Yu Zhou, Tommaso Melodia
@@ -59,7 +59,7 @@ Lorenzo Bertizzolo, Tuyen X. Tran, Brian Amento, Bharath Balasubramanian, Rittwi
 Jiayi Meng, Abhigyan Sharma, Tuyen X. Tran, Bharath Balasubramanian, Gueyoung Jung, Matti A. Hiltunen, Y. Charlie Hu
 
 ### [ICFEC 2020] SessionStore: A Session-Aware Datastore for the Edge. 
-Seyed Hossein Mortazavi, Mohammad Salehe, Bharath Balasubramanian, Eyal de Lara, Shankaranarayanan PuzhavakathNarayanan. 
+Seyed Hossein Mortazavi, Mohammad Salehe, Bharath Balasubramanian, Eyal de Lara, Shankaranarayanan PuzhavakathNarayanan
 
 For my older papers, please refer to <a href="https://dblp.org/pers/b/Balasubramanian:Bharath.html">DBLP</a>. 
 
@@ -89,7 +89,7 @@ I have worked closely with these Ph.D. students and am grateful for their role i
 
 <a name="service"></a>
 # Service
-Program Committees:  ICDCS, SEC, IEEE Cloud, SRDS. 
+Program Committees:  ICDCS, SEC, IEEE Cloud, SRDS
 
 Invited Reviews: Journal of Operations Research, TPDS, JPDC, ICDCS, OPODIS, DISC, SSS
 
