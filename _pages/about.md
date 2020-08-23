@@ -32,13 +32,11 @@ Currently (2018-Present), my focus is on the software-defined control of the RAN
 * As use-case manager for the RIC, work with various business-units to prioritize use-cases of the RIC and perform financial modeling to convert technical gains (e.g. % throughput improvement) into actual dollars saved. 
 * Collaborate with universities on forward-looking applications of the RIC in diverse areas such as augmented reality <a href="https://bharathgituser.github.io/files/ar_secon_2020.pdf">(Secon 2020)</a>, localization <a href="https://bharathgituser.github.io/files/pinpoint_lanman_2020.pdf">(Lanman 2020)</a>, drones <a drones  href="https://bharathgituser.github.io/files/drone_hotnets_2020.pdf">(HotNets 2020)</a>, and video analytics. 
 
-Prior to this (2014-2018) my main focus was on various aspects of the state management of ATT's network automation platform:
+Prior to this (2014-2018) my main focus was on the state management of ATT's network automation platform:
 * Concieved and built the first version of a multi-site key-value store (MUSIC) to address ATT's geo-distribution needs. 
-* Worked with production teams to identify clients for this tool and sucessfully deploy this tool in our network to serve these clients. MUSIC has been running in production for over 3 years now where it has been transitioned to a production team. 
-
-
-
-
+* Worked with production teams to identify clients for this tool, sucessfully deploy this tool in our network and transition the code-base. MUSIC has been running in production for over 3 years now.
+* Served as the Project Technical Lead for MUSIC in the open source network automation platform (<a href ="https://www.onap.org/">ONAP</a>) where I worked to evangelize the tool and solicited <a href = "https://gerrit.onap.org/r/gitweb?p=music.git">code</a> contributions from several companies (Intel, IBM) and universities (GeorgiaTech, University of Toronto).
+* Collaborated with universities (GeorgiaTech, University of Toronto, US Naval Academy and Princeton University) to enhance the code-base, formally verify MUSIC and publish it in conferences (<a href="https://bharathgituser.github.io/files/metric_vldb_2020.pdf">VLDB</a>, <a href="https://bharathgituser.github.io/files/music_icdcs_2020.pdf">ICDCS</a> 2020). 
 
 
 <a name="publications"></a>
