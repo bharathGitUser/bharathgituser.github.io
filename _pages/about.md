@@ -14,9 +14,9 @@ hopefully achieve the trinity of production deployments, top-tier conference pap
 * Application verticals like video, augmented reality, drones etc, that can leverage fine-grained control of the 5G/LTE RAN
 * Large-scale distributed systems and storage 
 
-In a prohibitively long &#128564;, but enjoyable Ph.D. (2005-2012) at UT Austin under Vijay Garg, I focused on coding-theoretic fault-tolerance in distributed systems. Following this, I worked as a Postdoc at Princeton University with Mung Chiang (2012-2014). Since then I have been at ATT Labs Research. 
+In a prohibitively long &#128564;, but enjoyable Ph.D. (2005-2012) at UT Austin under Vijay Garg, I focused on coding-theoretic fault-tolerance in distributed systems. Following this, I worked as a Postdoc at Princeton University with Mung Chiang (2012-2014). Since then, I have been at ATT Labs Research. 
 
-My wife, Mini, writes and edits children's books. If you want a read beyond my pulsatingly thrilling and pulpy papers, do drop by her <a href="https://missmini.home.blog">blog</a>. 
+My wife, Mini, writes and edits children's books. If you want something _slightly_ 😬 more fun than my pulpy papers, do swing by <a href="https://missmini.home.blog">missmini.home.blog</a>. 
 
 <a name="new"></a>
 # New!
