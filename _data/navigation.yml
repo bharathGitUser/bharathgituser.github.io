@@ -3,6 +3,9 @@ main:
   - title: "New!"
     url: /#new
 
+  - title: "Recent Work"
+    url: /#recent
+
   - title: "Publications"
     url: /#publications
 
