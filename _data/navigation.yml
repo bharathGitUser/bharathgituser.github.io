@@ -3,7 +3,7 @@ main:
   - title: "New!"
     url: /#new
     
-  - title: "Recent Work"
+- title: "Recent Work"
     url: /#recent
 
 - title: "Publications"
