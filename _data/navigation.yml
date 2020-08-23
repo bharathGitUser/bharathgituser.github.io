@@ -2,8 +2,11 @@
 main:
   - title: "New!"
     url: /#new
+    
+  - title: "Recent Work!"
+    url: /#recent
 
-  - title: "Publications"
+- title: "Publications"
     url: /#publications
 
   - title: "Students"
